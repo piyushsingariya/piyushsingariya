@@ -8,8 +8,8 @@
 
 I'm currently a Software Engineer at HDFC Life. I've completed my bachelors at IIT Roorkee. Here's a peek at my professional life timeline!
 
-- Software Engineer [@HdfcLife](https://www.hdfclife.com/)
-- Software Engineer Intern [@Layer5](https://layer5.io/)
+- Software Engineer [@HDFCLife](https://www.hdfclife.com/)
+- Software Engineer Intern | GSoC'21 [@Layer5](https://layer5.io/)
 - Software Engineer [@naturalkheti](https://www.linkedin.com/company/naturalkheti/) 
 
 💬 Ask me anything about Software Development, Anime, Music, Video Games!
