@@ -33,7 +33,7 @@ If you don't find me coding I'll most likely be:
 1. Watching Anime
 2. Reading Manga
 3. Playing Valorant
-4. I am trying to become an avid reader
+4. I am trying to become an avid book-reader
 
 
 <br/>
