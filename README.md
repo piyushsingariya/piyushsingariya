@@ -6,11 +6,15 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/piyushsingariya?style=social)](https://twitter.com/piyushsingariya)
 [![GitHub followers](https://img.shields.io/github/followers/piyushsingariya?style=social)](https://github.com/piyushsingariya)
 
-I'm currently a Software Engineer at HDFC Life. I've completed my bachelors at IIT Roorkee. Here's a peek at my professional life timeline!
 
-- Software Engineer [@HDFCLife](https://www.hdfclife.com/)
-- Software Engineer Intern | GSoC'21 [@Layer5](https://layer5.io/)
-- Software Engineer [@naturalkheti](https://www.linkedin.com/company/naturalkheti/) 
+#### 💻 Work Experience
+I'm currently a Software Engineer at Datazip. I've completed my bachelors at IIT Roorkee. Here's a peek at my professional life timeline!
+
+- Software Engineer [@datazipio](https://www.datazip.io/) (Aug 2022 - Present)
+- Software Engineer [@HDFCLife](https://www.hdfclife.com/) (Jul 2021 - Aug 2022)
+- Core Maintainer [@Layer5](https://layer5.io/) (Nov 2021 - May 2022)
+- Software Engineer Intern | GSoC'21 [@Layer5](https://layer5.io/) (May 2021 - Sep 2021)
+- Software Engineer [@naturalkheti](https://www.linkedin.com/company/naturalkheti/) (Mar 2020 - Dec 2020)
 
 💬 Ask me anything about Software Development, Anime, Music, Video Games!
 </br>
