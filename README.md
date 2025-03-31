@@ -10,7 +10,7 @@
 #### 💻 Work Experience
 I'm a Software Engineer 2. I've completed my bachelors at IIT Roorkee. Here's a peek at my professional life timeline!
 
-- Software Engineer [@SigNoz] (https://signoz.io) (Mar 2025 - Present)
+- Software Engineer [@SigNoz](https://signoz.io) (Mar 2025 - Present)
 - Software Engineer 2 [@razorpay](https://razorpay.com) (Dec 2024 - Mar 2025)
 - Technical Lead [@datazipio](https://www.datazip.io/) (Aug 2022 - Nov 2024)
 - Software Engineer [@HDFCLife](https://www.hdfclife.com/) (Jul 2021 - Aug 2022)
