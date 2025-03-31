@@ -1,6 +1,6 @@
 <h1>Hola! I'm Piyush Singariya! <img src="https://media.giphy.com/media/tJU72w9lPzUPe/giphy.gif" width="40" height="35"></h1>
 
-<img align='right' src="https://user-images.githubusercontent.com/50979887/150168436-22675845-87ae-453a-9186-633ac801bcc4.jpg" width="400">
+<img align='right' src="./Piyush Singariya.jpg" width="400">
 
 ![](https://komarev.com/ghpvc/?username=piyushsingariya&style=flat-square)
 [![Twitter Follow](https://img.shields.io/twitter/follow/piyushsingariya?style=social)](https://twitter.com/piyushsingariya)
