@@ -10,11 +10,13 @@
 #### 💻 Work Experience
 I'm a Software Engineer 2. I've completed my bachelors at IIT Roorkee. Here's a peek at my professional life timeline!
 
-- Software Engineer [@datazipio](https://www.datazip.io/) (Aug 2022 - Nov 2024)
+- Software Engineer [@SigNoz] (https://signoz.io) (Mar 2025 - Present)
+- Software Engineer 2 [@razorpay](https://razorpay.com) (Dec 2024 - Mar 2025)
+- Technical Lead [@datazipio](https://www.datazip.io/) (Aug 2022 - Nov 2024)
 - Software Engineer [@HDFCLife](https://www.hdfclife.com/) (Jul 2021 - Aug 2022)
 - Core Maintainer [@Layer5](https://layer5.io/) (Nov 2021 - May 2022)
 - Software Engineer Intern | GSoC'21 [@Layer5](https://layer5.io/) (May 2021 - Sep 2021)
-- Software Engineer [@naturalkheti](https://www.linkedin.com/company/naturalkheti/) (Mar 2020 - Dec 2020)
+- Chief Technical Officer [@naturalkheti](https://www.linkedin.com/company/naturalkheti/) (Mar 2020 - Dec 2020)
 
 💬 Ask me anything about Software Development, Anime, Music, Video Games!
 </br>
