@@ -1,0 +1,138 @@
+{
+  "selectedTemplate": 4,
+  "headings": {
+    "work": "",
+    "education": "",
+    "skills": "",
+    "projects": "",
+    "awards": ""
+  },
+  "basics": {
+    "phone": "+91-9079346009",
+    "website": "github.com/piyushsingariya",
+    "location": {
+      "address": "Bangalore, India"
+    },
+    "name": "Piyush Singariya",
+    "email": "piyushsingariya@gmail.com"
+  },
+  "education": [
+    {
+      "institution": "INDIAN INSTITUTE OF TECHNOLOGY ROORKEE",
+      "area": "CIVIL ENGINEERING ",
+      "studyType": "B.TECH",
+      "startDate": "July 2017",
+      "endDate": "May 2021",
+      "gpa": "",
+      "location": "Roorkee, India"
+    }
+  ],
+  "work": [
+    {
+      "company": "SigNoz Inc",
+      "location": "Remote",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "Mar 2025",
+      "endDate": "Present",
+      "highlights": [
+        "Architected a two-tier JSON storage system on ClickHouse for native in-depth JSON log queries, handling ~100M logs/minute in SigNoz Cloud production.",
+        "Automated forwarding of AWS-generated S3 log files into SigNoz by building the S3 Sync feature.",
+        "Owned the Logs Pipelines feature end to end, improving JSON parsing and integrating the OpAMP protocol with the SigNoz OTel Collector",
+        "Expanded SigNoz's AWS integration suite by onboarding 5 new services - ECS, DynamoDB, SNS, ElastiCache, and SQS."
+      ]
+    },
+    {
+      "highlights": [
+        "Designed and delivered a full data-engineering stack end to end - ingestion, warehouse, transformation, and BI - as the founding backend engineer.",
+        "Cut full-load ingestion time 12X and CDC 2X by designing Gear5, a Go-based data replication system that later became the foundation of olake.io",
+        "Cut warehouse scale-up/down from 5–8 min to <90s via OpenEngine - storage/compute separation on AWS Fargate / Azure Container Apps with live query rerouting to freshly provisioned ClickHouse instances.",
+        "Enabled analysts to author models, track data lineage, and schedule transformation jobs by building a transformation layer on top of dbt-core (OSS).",
+        "Automated cluster lifecycle management with CL-Master, an operator handling node up/down-scaling, rolling image updates, system recovery, warehouse EBS autoscaling, and license management."
+      ],
+      "company": "Datazip Inc",
+      "location": "Bengaluru, India",
+      "position": "Lead Backend Engineer",
+      "startDate": "Aug 2022",
+      "endDate": "Nov 2024"
+    },
+    {
+      "highlights": [
+        "Built wrapper APIs for OCR-based document processing and a bulk URL-shortening tool (Excel-driven) for internal platform use."
+      ],
+      "company": "HDFC LIFE",
+      "position": "Software Engineer — Platform Team",
+      "startDate": "July 2021",
+      "endDate": "Aug 2022",
+      "location": "Mumbai, India"
+    },
+    {
+      "highlights": [
+        "Shipped CLI commands for mesheryctl to manage filters, patterns, and performance profiles/results, including the ability to run performance tests directly from the CLI.",
+        "Raised mesheryctl test coverage by 33% by introducing Go unit testing for its Cobra commands.",
+        "Built a pre/post-deployment health-check system to validate Meshery's environment state.",
+        "Refactored and consolidated ~65 server endpoint handlers and authored OpenAPI documentation covering ~70 handlers for Meshery's REST API."
+      ],
+      "company": "CLOUD NATIVE COMPUTING FOUNDATION",
+      "position": "GSoC '21 - Meshery CLI Maintainer",
+      "startDate": "June 2021",
+      "endDate": "Aug 2021",
+      "location": "Remote"
+    }
+  ],
+  "skills": [
+    {
+      "name": "PROGRAMMING LANGUAGES",
+      "level": "",
+      "keywords": [
+        "Golang",
+        "Python"
+      ]
+    },
+    {
+      "keywords": [
+        "Kubernetes",
+        "OpenTelemetry",
+        "OpAMP",
+        "AWS/Azure",
+        "GitHub CI"
+      ],
+      "name": "TECHNOLOGIES"
+    },
+    {
+      "keywords": [
+        "ClickHouse",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "name": "DATABASES"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "skills",
+    "education",
+    "projects",
+    "awards"
+  ]
+}
